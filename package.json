@@ -1,0 +1,18 @@
+{
+  "name": "arisocket",
+  "version": "1.0.0",
+  "description": "An open-source TCP Server and Client coded in Nodejs.",
+  "main": "index.js",
+  "author": "Sammwy",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/sammwyy/arisocket.git"
+  },
+  "keywords":["nodejs", "socket", "tcp", "arisocket"],
+  "author": "Sammwy <sammwy.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+  	"url": "https://github.com/sammwyy/arisocket/issues"
+  },
+  "homepage": "https://github.com/sammwyy/arisocket"
+}
